@@ -1,3 +1,5 @@
+console.log("portfolio website");
+console.log("portfolio website by ayan");
 let ayan = "Welcome developer sir,";
 
 const logo = document.querySelector(".logo a");
